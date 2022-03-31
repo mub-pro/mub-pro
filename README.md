@@ -2,8 +2,6 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning more about software development to improve my skills
 - 📫 How to reach me , mubarakbakrman@gmail.com
-- Stack overflow: https://stackoverflow.com/users/11199469/mubarak-b
-- LinkedIn: https://www.linkedin.com/in/mubarak-bakarman-b27400213
 
 <!---
 mub-pro/mub-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
