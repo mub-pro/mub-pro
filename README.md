@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mubarak
-- 👀 I’m interested in Software Development
+- 👀 I’m a Software Development
 - 🌱 I’m currently learning more about software development to improve my skills
 - 📫 How to reach me , mubarakbakrman@gmail.com
 
